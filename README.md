@@ -2,6 +2,6 @@
 illustrates rebase conflict
 
 line four
-line five,
+line five, EDITED
 line six
 line seven
